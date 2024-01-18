@@ -7,7 +7,7 @@ This app is developed using Streamlit and Open AI Assistance, the gpt-4-1106-pre
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llm-examples.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://clothing-assistance-chatbot-jtlcdv2fejs4ebtiuj2yrq.streamlit.app/)
 
 ### Get an OpenAI API key
 
